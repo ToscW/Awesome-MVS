@@ -1077,5 +1077,6 @@
 
 ### Other Resources
 
+- [Awesome-MVS](https://github.com/walsvid/Awesome-MVS)
 - [awesome-mvs](https://github.com/krahets/awesome-mvs)
 - [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS)
