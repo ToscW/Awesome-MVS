@@ -10,6 +10,8 @@
 
 ## Learning-based MVS Methods
 
+### 2025
+
 ### 2024
 
 #### GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo
